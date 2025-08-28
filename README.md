@@ -1,4 +1,7 @@
 🗳️ Voting Management System on a Simple Blockchain
+
+---
+
 📌 Overview
 
 This project is a menu-driven console application that demonstrates how a blockchain can be applied to a voting management system. It ensures transparency, immutability, and security of votes by recording every transaction (vote) on a blockchain.
